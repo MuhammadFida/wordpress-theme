@@ -34,7 +34,7 @@
                     <div class="col-md-6 col-sm-12 col-xs-12">
                         <div class="content-left">
                             <div class="section-title section-title-left">
-                                <h3>About Me</h3>
+                                <h3>About Me test</h3>
                             </div>
                             <div class="content">
                                 <h2>I am a Web Developer</h2>
