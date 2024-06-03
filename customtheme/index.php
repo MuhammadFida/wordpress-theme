@@ -8,7 +8,7 @@
                         <div class="col-md-8 col-sm-12 col-xs-12">
                             <div class="intro-caption">
                                 <span>I am Bleak Peaker</span>
-                                <h2>Web Developer</h2>
+                                <h2>PHP Web Developer</h2>
                                 <button class="button">Contact Me</button>
                             </div>
                         </div>
